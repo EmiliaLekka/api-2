@@ -1,0 +1,91 @@
+{
+    "getCurrentKrsStatus": {
+        "result": [
+            {
+                "date_from": "2001-06-28",
+                "legal_form": "ZWIĄZEK ZAWODOWY",
+                "name": "ZWIĄZEK ZAWODOWY PRACOWNIKÓW",
+                "nip": "5673706969",
+                "relation": "WSPÓLNIK",
+                "relation_detailed": ""
+            },
+            {
+                "date_from": "2001-06-28",
+                "legal_form": "ZWIĄZEK ZAWODOWY",
+                "name": "ZWIĄZEK ZAWODOWY PRACOWNIKÓW",
+                "nip": "1246997402",
+                "relation": "ZARZĄD",
+                "relation_detailed": "PRZEWODNICZĄCY"
+            }
+        ]
+    },
+    "addPeselWithCeidg": {
+        "msg": "success"
+    },
+    "removePeselWithCeidg": {
+        "msg": "success"
+    },
+    "listPeselWithCeidg": {
+        "list": [
+            {
+                "address_city": "Wrocław",
+                "address_number": "20",
+                "address_street": "Ptasia",
+                "email": "email@wp.pl",
+                "nip": "5673706969",
+                "pesel": "80250175501",
+                "phone": "500112233"
+            },
+            {
+                "address_city": "Poznań",
+                "address_number": "2a",
+                "address_street": "Wielka",
+                "email": "email@wro.pl",
+                "nip": "1246997402",
+                "pesel": "00302459672",
+                "phone": "600112233"
+            }
+        ]
+    },
+    "collectCeidgChanges": {
+        "items": {
+            "00302459672": [
+                {
+                    "begin_date": "2018-06-05",
+                    "nip": "7181856262",
+                    "same_value": "7181856262",
+                    "same_value_type": "nip"
+                },
+                {
+                    "begin_date": "2018-06-05",
+                    "nip": "7181856262",
+                    "same_value": "email@wp.pl",
+                    "same_value_type": "email"
+                }
+            ],
+            "00450163203": [
+                {
+                    "begin_date": "2018-06-05",
+                    "nip": "3412972607",
+                    "same_value": "ul. Wielka 1, Poznań",
+                    "same_value_type": "address"
+                },
+                {
+            "begin_date": "2018-06-02",
+            "nip": "3412972607",
+            "same_value": "600112233",
+                    "same_value_type": "phone"
+                }
+            ]
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
