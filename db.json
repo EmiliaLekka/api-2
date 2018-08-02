@@ -62,6 +62,20 @@
                     "same_value": "email@wp.pl",
                     "same_value_type": "email"
                 }
+            ],
+            "04241460461": [
+                {
+                    "begin_date": "2018-06-05",
+                    "nip": "7181856262",
+                    "same_value": "7181856262",
+                    "same_value_type": "nip"
+                },
+                {
+                    "begin_date": "2018-06-05",
+                    "nip": "7181856262",
+                    "same_value": "email@wp.pl",
+                    "same_value_type": "email"
+                }
             ]
         }
     }
