@@ -85,10 +85,10 @@
                     "same_value_type": "email"
                 },         
                 {
-            "begin_date": "2018-06-02",
-            "nip": "3412972607",
-            "same_value": "600112233",
-                    "same_value_type": "phone"
+                      "begin_date": "2018-06-02",
+                       "nip": "3412972607",
+                        "same_value": "600112233",
+                       "same_value_type": "phone"
                 }
             ]
         }
