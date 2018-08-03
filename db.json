@@ -52,13 +52,13 @@
             "44072483301": [
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "44072483301",
-                    "same_value": "44072483301",
+                    "nip": "7646603893",
+                    "same_value": "7646603893",
                     "same_value_type": "nip"
                 },
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "44072483301",
+                    "nip": "7646603893",
                     "same_value": "email@wp.pl",
                     "same_value_type": "email"
                 }
