@@ -49,16 +49,16 @@
     },
     "collectCeidgChanges": {
         "items": {
-            "95050694233": [
+            "32091426405": [
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "4973052052",
-                    "same_value": "4973052052",
+                    "nip": "9781202647",
+                    "same_value": "9781202647",
                     "same_value_type": "nip"
                 },
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "4973052052",
+                    "nip": "9781202647",
                     "same_value": "email@wp.pl",
                     "same_value_type": "email"
                 }
