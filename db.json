@@ -65,8 +65,8 @@
                 {
                     "begin_date": "2018-06-05",
                     "nip": "8709132637",
-                    "same_value": "email@wp.pl",
-                    "same_value_type": "email"
+                    "same_value": "121121121",
+                    "same_value_type": "phone"
                 }
             ]
         }
