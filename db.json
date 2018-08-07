@@ -52,9 +52,15 @@
             "16042611429": [
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "2638652006",
-                    "same_value": "2638652006",
+                    "nip": "9252035847",
+                    "same_value": "9252035847",
                     "same_value_type": "nip"
+                },
+                {
+                    "begin_date": "2018-06-05",
+                    "nip": "9252035847",
+                    "same_value": "email@wp.pl",
+                    "same_value_type": "email"
                 }
             ]
         }
