@@ -52,19 +52,19 @@
             "36010535115": [
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "7625221622",
+                    "nip": "7625221623",
                     "same_value": "7073616667",
                     "same_value_type": "nip"
                 },
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "7625221622",
+                    "nip": "7625221623",
                     "same_value": "email@wp.pl",
                     "same_value_type": "email"
                 },
                 {
                     "begin_date": "2018-06-05",
-                    "nip": "7625221622",
+                    "nip": "7625221623",
                     "same_value": "121121121",
                     "same_value_type": "phone"
                 }
